@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chinshinfeeng的博客</title>
+    <link>http://blog.chinshinfeeng.org/</link>
+    <description>Recent content on chinshinfeeng的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>Copyright © 2016 All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 23 Oct 2016 21:17:09 +0800</lastBuildDate>
+    <atom:link href="http://blog.chinshinfeeng.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>zookeeper学习总结</title>
+      <link>http://blog.chinshinfeeng.org/2016/10/23/zookeeper-learning/</link>
+      <pubDate>Sun, 23 Oct 2016 21:17:09 +0800</pubDate>
+      
+      <guid>http://blog.chinshinfeeng.org/2016/10/23/zookeeper-learning/</guid>
+      <description>
+
+&lt;p&gt;Zookeeper学习总结&lt;/p&gt;
+
+&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://zookeeper.apache.org/&#34;&gt;Zookeeper&lt;/a&gt;是Apache基金会下的开源软件，基于Paxos算法实现的分布式协调服务。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>《Java并发编程实践》学习笔记</title>
+      <link>http://blog.chinshinfeeng.org/2016/10/23/java-concurrency-in-practice/</link>
+      <pubDate>Sun, 23 Oct 2016 20:55:55 +0800</pubDate>
+      
+      <guid>http://blog.chinshinfeeng.org/2016/10/23/java-concurrency-in-practice/</guid>
+      <description>&lt;p&gt;《Java并发编程实践》学习笔记&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;总结1&lt;/li&gt;
+&lt;li&gt;总结2&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>《Effective Java》学习笔记</title>
+      <link>http://blog.chinshinfeeng.org/2016/10/23/effective-java-learning/</link>
+      <pubDate>Sun, 23 Oct 2016 20:44:59 +0800</pubDate>
+      
+      <guid>http://blog.chinshinfeeng.org/2016/10/23/effective-java-learning/</guid>
+      <description>&lt;p&gt;Effective Java学习笔记&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;总结1&lt;/li&gt;
+&lt;li&gt;总结2&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>关于我</title>
+      <link>http://blog.chinshinfeeng.org/about/</link>
+      <pubDate>Sat, 22 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.chinshinfeeng.org/about/</guid>
+      <description>
+
+&lt;p&gt;&lt;p&gt;
+Hello, 我是chinshinfeeng，一名程序员。&lt;/p&gt;
+
+&lt;h2 id=&#34;p&#34;&gt;&lt;/p&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;经历&#34;&gt;经历&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2007-2011 清华大学电子工程系。&lt;/li&gt;
+&lt;li&gt;2011-2014 中国科学院电子学研究所。&lt;/li&gt;
+&lt;li&gt;2014-2016 搜狐北京研发中心。&lt;/li&gt;
+&lt;li&gt;2016-至今  新美大酒店旅游事业群后台研发。
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;技能&#34;&gt;技能&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;编程语言： c++，java，python。&lt;/li&gt;
+&lt;li&gt;略懂前端开发，利用NodeJS做过内部监控系统页面开发。&lt;/li&gt;
+&lt;li&gt;熟悉分布式系统，做过海量小文件分布式文件存储系统的开发和运营维护；工作中搭建使用过zookeeper、hadoop、hbase、kafka、flume、storm等开源系统。&lt;/li&gt;
+&lt;li&gt;目前在做B端web研发。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;爱好&#34;&gt;爱好&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;摄影，摄影技术一般，但喜欢拍照，喜欢和志同道合者游玩、拍照、担当模特。&lt;/li&gt;
+&lt;li&gt;户外运动，爬山、徒步、露营、骑行，周末或假期，趁着蓝天白云好天气呼吸一下新鲜空气，是件美妙的事情。
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
